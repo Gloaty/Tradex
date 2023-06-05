@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Geologica";
+    src: url("../fonts/Geologica/Geologica-VariableFont_CRSV\,SHRP\,slnt\,wght.ttf");
+}
+body {
+    font-family: "Geologica";
+    background-color: #1f2430;
+}
+table {
+    border: none;
+}
+.header {
+    background-image: url("../images/tradex\ background.jpg");
+}
+.header-title {
+    color: white;
+    padding: 15px;
+    font-size: 75px;
+    text-align: center;
+}
+.header-text {
+    color: white;
+    text-align: center;
+    padding-bottom: 40px;
+}
